@@ -78,7 +78,7 @@ After removing the top PS3 enclosure, the power supply, blu-ray drive, and push-
 <br>
 
 #### 5. PS3 Slim after removing various Components
-After removing the components in step 4, the PS3 fan and metal motherboard shielding can be removed from the base enclosure.
+After removing the components in part 4, the PS3 fan and metal motherboard shielding can be removed from the base enclosure.
 <div align="center">
    <img src="images./IMG_0064.JPG" alt="Alt text" width="50%">
    
@@ -99,7 +99,7 @@ There are 9 screws that must be removed to remove the motherboard shielding:
 
 <br>
 
-#### 7. Replacing Thermal Compound
+#### 7. Removing Old Thermal Compound
 The thermal paste for this PS3 is over 15 years old and may benefit greatly upon replacement. The old thermal compound can be removed with a paper towel damped with 91% isopropyl alcohol.
 <div align="center">
    <img src="images./IMG_0069.JPG" alt="Alt text" width="50%">
@@ -110,10 +110,24 @@ The thermal paste for this PS3 is over 15 years old and may benefit greatly upon
 
    <img src="images./IMG_0070.JPG" alt="Alt text" width="50%">
    
-   Figure 9: Residual Thermal Compound on the Cell Processor and Reality Synthesizer (RSX)
+   Figure 9: Old Thermal Compound on the Cell Processor and Reality Synthesizer (RSX)
 </div>
 
 <br>
 
+#### 8. Replacing Thermal Compound and CR2032 Lithium Battery
+The CR2032 Lithium Battery inside the PS3 is over 15 years old, and may need replacement. The CR2032 battery voltage read ~2.9V on my multimeter, which, indicated the need for a replacement as fresh CR2032 lithium batteries have a terminal voltage of ~3.2V or ~3.3V when new.
+<div align="center">
+   <img src="images./IMG_0071.JPG" alt="Alt text" width="50%">
+   
+   Figure 7: Screw Locations for the Motherboard Shielding
+</div>
+
+<br>
+
+> _To ensure complete coverage of the Cell Processor and Reality Synthesizer (RSX), a generous application of thermal compound is generally preferred over a minimal amount._
+
+<br>
+
 ## Summary
-&emsp; Refurbishing this PS3 Slim has strengthened my confidence working with electronics. The PS3 slim was designed to be modular for easier repairs, and I can now better appreciate the modularity of electronics after completing this refurbishment.
+&emsp; Refurbishing this PS3 Slim has strengthened my confidence working with electronics. The PS3 slim was clearly designed as a modular system, and I can now better appreciate the benefits of modular electronics for repairability after refubishing this console.
