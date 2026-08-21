@@ -1,4 +1,5 @@
-# Playstation 3 Slim Refurbishment
+# Playstation 3 (PS3) Slim Refurbishment
+Below is an overview of my PS3 Slim Refurbishing Process
 <div align="center">
    <img src="images./IMG_0048.JPG" alt="Alt text" width="50%">
    <br>
@@ -28,8 +29,10 @@
 * 2.0mm Thermal Pads (optional)
   * 6W/mK pads are readily available.
 
+<br>
+
 ## Refurbishment Process
-#### 1. Removing Screws from Base Enclosure:
+#### 1. Removing Screws from Base Enclosure
 There are 9 screws that must be removed to take off the top PS3 cover and remove the HDD.
 * 5 Phillips #0 Screws
 * 4 Torx #8 Security Screws
@@ -40,9 +43,7 @@ There are 9 screws that must be removed to take off the top PS3 cover and remove
    Figure 2: Screw Locations for Base Enclosure Removal
 </div>
 
-<br>
-
-#### 2. SATA HDD Removal:
+#### 2. SATA HDD Removal
 You may
 <div align="center">
    <img src="images./IMG_0051.JPG" alt="Alt text" width="50%">
@@ -52,7 +53,7 @@ You may
 
 <br>
 
-#### 3. Optional SATA HDD/SSD Upgrade:
+#### 3. Optional SATA HDD/SSD Upgrade
 You can remove the HDD from the HDD bracket to clean and upgrade the drive, if necessary.
 <div align="center">
    <img src="images./IMG_0052.JPG" alt="Alt text" width="50%">
@@ -60,5 +61,59 @@ You can remove the HDD from the HDD bracket to clean and upgrade the drive, if n
    Figure 4: Screw Locations for SATA SSD/HDD Removal
 </div>
 
-Note: _While the PS3 relies on SATA I speeds, the PS3 can still benefit from an updated 2.5" HDD or SSD. An SSD upgrade eliminates HDD drive spin noise and can result in faster loading times and reduced heating._
+<br>
 
+> _While the PS3 relies on SATA I speeds, the PS3 can still benefit from an updated 2.5" HDD or SSD. An SSD upgrade eliminates HDD drive spin noise and can result in faster loading times and reduced heating._
+
+<br>
+
+#### 4. PS3 Top Enclosure Removed
+After removing the top PS3 enclosure, the power supply, blu-ray drive, and push-button plate can be removed.
+<div align="center">
+   <img src="images./IMG_0056.JPG" alt="Alt text" width="50%">
+   
+   Figure 5: Visual of PS3 components needed to be removed
+</div>
+
+<br>
+
+#### 5. PS3 Slim after removing various Components
+After removing the components in step 4, the PS3 fan and metal motherboard shielding can be removed from the base enclosure.
+<div align="center">
+   <img src="images./IMG_0064.JPG" alt="Alt text" width="50%">
+   
+   Figure 6: PS3 Slim after removing various components
+</div>
+
+<br>
+
+#### 6. Removing the Motherboard Shielding
+There are 9 screws that must be removed to remove the motherboard shielding:
+* 5 Phillips #0 Screws
+* 4 Phillips #1 Screws
+<div align="center">
+   <img src="images./IMG_0068.JPG" alt="Alt text" width="50%">
+   
+   Figure 7: Screw Locations for the Motherboard Shielding
+</div>
+
+<br>
+
+#### 7. Replacing Thermal Compound
+The thermal paste for this PS3 is over 15 years old and may benefit greatly upon replacement. The old thermal compound can be removed with a paper towel damped with 91% isopropyl alcohol.
+<div align="center">
+   <img src="images./IMG_0069.JPG" alt="Alt text" width="50%">
+   
+   Figure 8: Residual Thermal Compound on the Motherboard Shielding
+
+   <br>
+
+   <img src="images./IMG_0070.JPG" alt="Alt text" width="50%">
+   
+   Figure 9: Residual Thermal Compound on the Cell Processor and Reality Synthesizer (RSX)
+</div>
+
+<br>
+
+## Summary
+&emsp; Refurbishing this PS3 Slim has strengthened my confidence working with electronics. The PS3 slim was designed to be modular for easier repairs, and I can now better appreciate the modularity of electronics after completing this refurbishment.
