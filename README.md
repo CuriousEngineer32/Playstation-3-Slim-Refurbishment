@@ -44,7 +44,7 @@ There are 9 screws that must be removed to take off the top PS3 cover and remove
 </div>
 
 #### 2. SATA HDD Removal
-You may
+The SATA HDD must be removed to take off the top PS3 Slim enclosure.
 <div align="center">
    <img src="images./IMG_0051.JPG" alt="Alt text" width="50%">
    
@@ -68,12 +68,16 @@ You can remove the HDD from the HDD bracket to clean and upgrade the drive, if n
 <br>
 
 #### 4. PS3 Top Enclosure Removed
-After removing the top PS3 enclosure, the power supply, blu-ray drive, and push-button plate can be removed.
+After removing the top PS3 enclosure, the power supply, Blu-ray drive, and push-button plate can be removed.
 <div align="center">
    <img src="images./IMG_0056.JPG" alt="Alt text" width="50%">
    
    Figure 5: Visual of PS3 components needed to be removed
 </div>
+
+<br>
+
+>_A ribbon cable is attached from the Blu-ray drive to the PS3 motherboard. This ribbon cable must be removed carefully to avoid damaging Blu-ray drive functionality. Therefore, straight or curved tweezers can be used to safely disconnect the ribbon cable before removing the blu-ray drive._
 
 <br>
 
@@ -116,11 +120,11 @@ The thermal paste for this PS3 is over 15 years old and may benefit greatly upon
 <br>
 
 #### 8. Replacing Thermal Compound and CR2032 Lithium Battery
-The CR2032 Lithium Battery inside the PS3 is over 15 years old, and may need replacement. The CR2032 battery voltage read ~2.9V on my multimeter, which, indicated the need for a replacement as fresh CR2032 lithium batteries have a terminal voltage of ~3.2V or ~3.3V when new.
+The CR2032 Lithium Battery inside the PS3 is over 15 years old, and may need replacement. The CR2032 battery voltage on this PS3 Slim read ~2.9V on a multimeter, which, indicated the need for a replacement as new CR2032 lithium batteries have a terminal voltage of ~3.2V or ~3.3V.
 <div align="center">
    <img src="images./IMG_0071.JPG" alt="Alt text" width="50%">
    
-   Figure 7: Screw Locations for the Motherboard Shielding
+   Figure 10: Thermal Paste Application Example and CR2032 Lithium Battery Location
 </div>
 
 <br>
